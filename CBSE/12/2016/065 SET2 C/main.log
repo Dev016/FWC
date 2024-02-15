@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.10)  15 FEB 2024 15:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.10)  15 FEB 2024 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1081,59 +1081,58 @@ LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <17.28> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 191.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 192.
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
-92.
 
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
+96.
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 1
-92.
+96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+wasy on input line 19
-2.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 19
-2.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
-92.
+96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
-92.
+96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+esvect on input line 
-192.
+196.
 
 (/usr/share/texlive/texmf-dist/tex/latex/esvect/uesvect.fd
 File: uesvect.fd 
 )
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
-92.
+96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
@@ -1314,7 +1313,7 @@ txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 152274 bytes).
+Output written on main.pdf (4 pages, 153461 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  81 compressed objects within 1 object stream
