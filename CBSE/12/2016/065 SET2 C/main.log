@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.10)  15 FEB 2024 15:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.10)  16 FEB 2024 20:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1079,142 +1079,114 @@ LaTeX Info: Redefining \nameref on input line 79.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <17.28> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 191.
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 192.
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
-
- []
-
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
-96.
+93.
+
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 1
-96.
+93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+wasy on input line 19
-6.
+3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 19
-6.
+3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
-96.
+93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
-96.
+93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+esvect on input line 
-196.
+193.
 
 (/usr/share/texlive/texmf-dist/tex/latex/esvect/uesvect.fd
 File: uesvect.fd 
 )
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
-96.
+93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
-
- []
-
-
-Overfull \hbox (2.30592pt too wide) in paragraph at lines 214--215
+Overfull \hbox (2.30592pt too wide) in paragraph at lines 213--214
 []\OT1/txr/m/n/12 Find the co-ordinates of the point where the line through the
  points A $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
-
- []
-
-
-Overfull \hbox (2.26599pt too wide) in paragraph at lines 222--225
-\OT1/txr/m/n/12 A bag con-tains $4$ balls. Two balls are drawn at ran-dom (with
--out re-place-ment)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--225
-
- []
-
-
-Overfull \hbox (3.51466pt too wide) in paragraph at lines 226--227
-\OT1/txr/m/n/12 have got \U/tfrupee/m/n/12 |$\OT1/txr/m/n/12 100$ less as in-te
-r-est. Us-ing ma-trix method, find the amount in-vested
  []
 
 
@@ -1223,49 +1195,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--227
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--231
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--235
+Underfull \hbox (badness 10000) in paragraph at lines 231--233
 
  []
 
-[2]
+
+Overfull \hbox (3.51466pt too wide) in paragraph at lines 234--235
+\OT1/txr/m/n/12 have got \U/tfrupee/m/n/12 |$\OT1/txr/m/n/12 100$ less as in-te
+r-est. Us-ing ma-trix method, find the amount in-vested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
+[2]
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 245.
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 240--243
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--253
-
- []
-
-
-Overfull \hbox (19.33pt too wide) in paragraph at lines 254--255
-\OT1/txr/m/n/12 and $5%$ phos-pho-ric acid whereas `B' con-sists of $4%$ ni-tro
--gen and $5%$ phos-pho-ric
  []
 
 
@@ -1273,50 +1238,108 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 256--259
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
+Overfull \hbox (2.26599pt too wide) in paragraph at lines 283--284
+[]\OT1/txr/m/n/12 A bag con-tains $4$ balls. Two balls are drawn at ran-dom (wi
+th-out re-place-ment)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
-[4] (./main.aux)
+
+Overfull \hbox (19.33pt too wide) in paragraph at lines 292--293
+\OT1/txr/m/n/12 and $5%$ phos-pho-ric acid whereas `B' con-sists of $4%$ ni-tro
+-gen and $5%$ phos-pho-ric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+[5] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 30630 strings out of 478287
- 595054 string characters out of 5849289
- 913045 words of memory out of 5000000
- 48244 multiletter control sequences out of 15000+600000
+ 30641 strings out of 478287
+ 595142 string characters out of 5849289
+ 915054 words of memory out of 5000000
+ 48243 multiletter control sequences out of 15000+600000
  496057 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,14n,104p,544b,901s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,14n,104p,543b,899s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/tfrupee/tfrupee.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 153461 bytes).
+e/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/tfr
+upee/tfrupee.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (5 pages, 155490 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 34 named destinations out of 1000 (max. 500000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
